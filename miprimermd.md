@@ -34,4 +34,5 @@ Podemos llegar a la siguiente conclusión.
 | Duradero | - |
 | Complejo | - |
 
+Buzón de [SUGERENCIAS](sugerencias.md)
 

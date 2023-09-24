@@ -24,11 +24,11 @@ O una mala estructurada para hacer una casa:
 
 En la primera sabemos de dónde partimos y a dónde llegamos, en la segunda nada tiene sentido. 
 
-Después de leer la primera explicación y ver que es sencillo, aparece la siguiente [URL](https://www.markdownguide.org/cheat-sheet/) y veo que está en ![inglés](42811.png).
+Después de leer la primera explicación y ver que es sencillo, aparece la siguiente [URL](https://www.markdownguide.org/cheat-sheet/) y veo que está en ![inglés](rostro.jpg).
 
 Podemos llegar a la siguiente conclusión.
-| *fácil* | fáacil |
-|------------------|
+| *fácil* | fácil |
+|-----------------|
 | Elaborado | fácil |
 | Largo | - |
 | Duradero | - |

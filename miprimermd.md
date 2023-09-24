@@ -30,7 +30,7 @@ Después de leer la primera explicación y ver que es sencillo, aparece la sigui
  Conclusiones:
   
 | *fácil* | Si/No |
-|-----------------|
+|_________________|
 | Markdown Básico | Sí |
 | Markdawn avanzado | NS |
 
